@@ -9,5 +9,6 @@
 }
 
 :root {
+    --ts-var-root-color: '#33701d';
     --ts-var-root-font-family: 'RobotoSlab';
 }
