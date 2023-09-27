@@ -9,6 +9,7 @@
 }
 
 :root {
-    --ts-var-root-color: '#701d6b';
+    --ts-var-nav-background: #2359B6;
+    --ts-var-root-color: #701d6b;
     --ts-var-root-font-family: 'RobotoSlab';
 }
