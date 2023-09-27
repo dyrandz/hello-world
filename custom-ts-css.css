@@ -7,3 +7,7 @@
     font-family: 'SourceSansPro';
     src: url('https://lm-assets.mycrm.finance/fonts/SourceSansPro/SourceSansPro-Regular.woff2'); 
 }
+
+:root {
+    --ts-var-root-font-family: 'RobotoSlab';
+}
