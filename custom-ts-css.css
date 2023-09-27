@@ -1,9 +1,9 @@
 @font-face {
-    font-family: 'SourceSansPro';
-    src: url('https://lm-assets.mycrm.finance/fonts/SourceSansPro/SourceSansPro-Regular.woff2'); 
+    font-family: 'RobotoSlab';
+    src: url('https://fonts.gstatic.com/s/robotoslab/v33/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2'); 
 }
 
 @font-face {
-    font-family: 'RobotoSlab';
-    src: url('https://fonts.gstatic.com/s/robotoslab/v33/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2'); 
+    font-family: 'SourceSansPro';
+    src: url('https://lm-assets.mycrm.finance/fonts/SourceSansPro/SourceSansPro-Regular.woff2'); 
 }
